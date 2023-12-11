@@ -6,7 +6,7 @@ O Des é um site moderno para um restaurante, projetado para fornecer informaç�
 
 ## Capturas de Tela
 
-![Página Inicial](screenshots/home.png)
+![Página Inicial](./Des-fachada.png)
 ![Cardápio](screenshots/menu.png)
 
 ## Recursos
